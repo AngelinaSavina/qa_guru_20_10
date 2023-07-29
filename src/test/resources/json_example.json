@@ -1,0 +1,6 @@
+{
+  "string": "Hello World",
+  "boolean": true,
+  "number": 123,
+  "color": ["gold", "brown"]
+}
