@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="guru.qa.HomeTask.ZIPFilesReadTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-29T13:44:28" hostname="AngelinavinaMBP" time="0.543">
-  <properties/>
-  <testcase name="Реализовать чтение и проверку содержимого каждого файла из архива" classname="guru.qa.HomeTask.ZIPFilesReadTest" time="0.543"/>
-  <system-out><![CDATA[1
-]]></system-out>
-  <system-err><![CDATA[ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
-]]></system-err>
-</testsuite>

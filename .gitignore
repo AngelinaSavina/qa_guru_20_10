@@ -1,0 +1,61 @@
+# Default ignored files
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Properties files
+*.properties
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.iml
+
+# Project gen files
+.idea
+.allure/
+.gradle/
+allure-results/
+gradle/
+build/
+bin/
+out/
+logs/
+target/
+.classpath
+.project
+.settings/org.eclipse.buildship.core.prefs
+.vscode
+/gradlew
+/gradlew.bat
+
+/shelf/
+/.idea/workspace.xml
+buildOutputCleanup.lock
+checksums.lock
+executionHistory.bin
+executionHistory.lock
+file-system.probe
+fileHashes.bin
+fileHashes.lock
+index.html
+md5-checksums.bin
+output.bin
+output.bin.idx
+previous-compilation-data.bin
+resourceHashesCache.bin
+results.bin
+sha1-checksums.bin

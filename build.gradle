@@ -15,11 +15,11 @@ dependencies {
             'com.codeborne:xls-test:1.7.0',
             'com.opencsv:opencsv:5.7.1',
             'com.google.code.gson:gson:2.10.1',
-            'org.assertj:assertj-core:3.23.1',
-            'org.apache.poi:poi:4.1.1',
-            'com.fasterxml.jackson.core:jackson-core:2.13.3',
-            'com.fasterxml.jackson.core:jackson-databind:2.13.3',
-            'com.fasterxml.jackson.core:jackson-annotations:2.13.3'
+            'org.assertj:assertj-core:3.24.2',
+            'org.apache.poi:poi:5.2.2',
+            'com.fasterxml.jackson.core:jackson-core:2.14.2',
+            'com.fasterxml.jackson.core:jackson-databind:2.15.1',
+            'com.fasterxml.jackson.core:jackson-annotations:2.15.1'
     )
 }
 
