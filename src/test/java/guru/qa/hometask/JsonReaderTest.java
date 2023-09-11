@@ -1,4 +1,4 @@
-package guru.qa.homeTask;
+package guru.qa.hometask;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
